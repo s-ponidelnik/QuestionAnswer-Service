@@ -1,0 +1,22 @@
+.question-text{
+    padding-top: 10px;
+}
+.question-text a{
+    color:inherit;
+    text-decoration: none;
+}
+.question-search{
+    width:100%;
+}
+.question-search-text{
+    width:90%;
+    float:left;
+}
+.question-search-btn{
+    padding-top: 25px;
+    float:right;
+    width: 8%;
+}
+.answers-count{
+    text-decoration: none;
+}
