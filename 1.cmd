@@ -1,2 +1,0 @@
-yiic migrate create init_migration
-pause
